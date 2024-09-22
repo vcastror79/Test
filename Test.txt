@@ -5,3 +5,15 @@ INSERT INTO Category (Category_Name) VALUES
 ('Bebidas'),
 ('Comida'),
 ('Postres');
+
+-- Insertar datos en la tabla Category
+INSERT INTO Category (Category_Name) VALUES 
+('Bebidas'),
+('Comida'),
+('Postres');
+
+-- Insertar datos en la tabla Category
+INSERT INTO Category (Category_Name) VALUES 
+('Bebidas'),
+('Comida'),
+('Postres');
