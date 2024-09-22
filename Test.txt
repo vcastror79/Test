@@ -1,1 +1,7 @@
 Hola mundo!
+
+-- Insertar datos en la tabla Category
+INSERT INTO Category (Category_Name) VALUES 
+('Bebidas'),
+('Comida'),
+('Postres');
